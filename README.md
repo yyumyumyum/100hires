@@ -1,9 +1,9 @@
 # 100Hires JOSHUA WIJAYA
 Portfolio Project of Cursor IDE Set Up 
 ## Tools Installed
-*  ⁠*Cursor IDE* – AI-powered code editor (https://cursor.com)
-*⁠  ⁠*Claude Code* – Anthropic's AI coding assistant extension for Cursor
-*⁠  ⁠*Codex* – OpenAI's AI extension for Cursor
+* *Cursor IDE* – AI-powered code editor (https://cursor.com)
+* ⁠*Claude Code* – Anthropic's AI coding assistant extension for Cursor
+* ⁠*Codex* – OpenAI's AI extension for Cursor
 
 ## Steps Completed
 1. Downloaded and installed Cursor IDE on macOS
